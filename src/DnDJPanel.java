@@ -171,7 +171,7 @@ public class DnDJPanel extends JPanel implements MouseMotionListener, MouseListe
 		
 		repaint();
 		
-		System.out.println(drawScalingFactor);
+		System.out.println(drawScalingFactor); 
 	}
 }
 
